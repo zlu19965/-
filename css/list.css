@@ -1,0 +1,100 @@
+.right_s{
+	margin-left: 0;
+}
+.list_main{
+
+}
+.top_banner{
+	width: 100%;
+}
+.list_item{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	width: 100%;
+	overflow: hidden;
+}
+.list_item .item{
+	width: 284px;
+	height: 458px;
+	border:1px solid #ccc;
+	margin-bottom: 10px;
+	position: relative;
+	float:left;
+	margin-left: 13px;
+}
+.list_item .item img{
+	width: 280px;
+	height: 290px;
+}
+.item:nth-child(4n){
+	margin-right: 0px;
+}
+.item p{
+	padding:0px 25px;
+	margin-bottom: 15px;
+	font-size: 14px;
+}
+.price{
+	padding:0px 25px;
+}
+.price strong{
+	font-size: 25px;
+	color:red;
+	margin-right: 20px;
+}
+.price del{
+	color:gray;
+}
+
+.progress{
+	padding:0px 25px;
+	margin-top: 10px;
+	float: left;
+	overflow: hidden;
+}
+.progress span{
+	font-size: 12px;
+}
+.progress_left{
+	width: 130px;
+	height: 12px;
+	border-radius: 12px;
+	margin-top: 2px;
+	float: left;
+	margin-left: 200px;
+	margin-top: -17px;
+
+
+}
+.progress_left span{
+	font-size: 12px;
+}
+
+
+.prs{
+	width: 120px;
+	height: 13px;
+	border: 1px solid #ccc;
+	border-radius: 7px;
+	margin-left: 70px;
+	position: absolute;
+	top:84%;
+	margin-top: 2px;
+
+}
+.prs div{
+	width: 70px;
+	height: 10px;
+	background-color: pink;
+	border-radius: 5px;
+}
+
+.item input{
+	width: 100%;
+	height: 45px;
+	background-color: red;
+	color:#fff;
+	font-size: 20px;
+	margin-top: 14px;
+
+}
